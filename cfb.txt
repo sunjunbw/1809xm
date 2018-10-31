@@ -4,3 +4,5 @@ for(i=1;i<=9;++)
      str=i+"**"+j+"="+i*j
    }
 }
+
+alert("over");
